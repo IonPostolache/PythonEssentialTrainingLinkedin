@@ -1,4 +1,4 @@
-# PythonEssentialTrainingLinkedin
+# Python Essential Training Linkedin
 
 Coded during the course "Python Essential Training" on Linkedin platform.
 
