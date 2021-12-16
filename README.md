@@ -1,6 +1,6 @@
 # Python Essential Training Linkedin
 
-Coded during the course "Python Essential Training" on Linkedin platform.
+Coded while taking the course "Python Essential Training" on Linkedin platform.
 
 Due to its power and simplicity, Python has become the scripting language of choice for many large organizations, including Google, Yahoo, and IBM.
 A thorough understanding of Python 3, the latest version, will help you write more efficient and effective scripts. 
